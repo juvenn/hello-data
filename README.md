@@ -14,3 +14,10 @@ Ridge Regression
 
 Using ridge regression, we've showed that ...
 
+
+Lasso Regression
+----
+
+Using LASSO regression, we've showed that ...
+
+
