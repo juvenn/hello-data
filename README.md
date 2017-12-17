@@ -2,7 +2,7 @@
 An Exploration on Individual Income
 ====
 
-We've collected a thousand of inviduals' income data, populated at
+We've collected a thousand of individuals' income data, populated at
 data/sample.csv. It has been anonymized, while including age, education, and
 monthly recurring income.
 
