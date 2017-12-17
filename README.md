@@ -9,3 +9,8 @@ monthly recurring income.
 It would be interesting to do some regression analysis, to see how their
 income vary depending on age, education, etc.
 
+Lasso Regression
+----
+
+Using LASSO regression, we've showed that ...
+
